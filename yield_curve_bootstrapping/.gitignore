@@ -1,0 +1,15 @@
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+demo
+run_tests
+.DS_Store
+.vscode/
+.idea/
+cmake-build-*/
+*.swp
+*.swo
+*~
